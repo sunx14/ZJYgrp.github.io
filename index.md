@@ -1,5 +1,5 @@
 ---
-title: "PDB database"
+title: "IntEnzyDB"
 date: 2021-07-06
 author: 
 - John

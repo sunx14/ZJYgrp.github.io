@@ -9,12 +9,17 @@ author:
 - Xinchun
 ---
 
+### Brief Introduction 
+
 Demo for the construction of IntEnzyDB, a database for storing enzyme kinetics-structure data.
 
-### Jekyll Themes
+#### The reason why we build this database
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ZJYgrp/ZJYgrp.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+...
 
-### Support or Contact
+#### The special architecture of thid database
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+...
+
+
+

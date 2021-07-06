@@ -1,5 +1,5 @@
 ---
-title: "IntEnzyDB"
+title: "Home Page"
 date: 2021-07-06
 author: 
 - John

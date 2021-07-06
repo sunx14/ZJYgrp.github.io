@@ -3,11 +3,11 @@ author: John, Li, Xi, Lucy, Xinchun
 email: zhongyue.yang@vanderbilt.edu
 theme: minima
 description: > # this means to ignore newlines until "baseurl:"
-  Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files. 
+  Whenever you commit to this repository, GitHub Pages will run Jekyll to rebuild the pages in your site, from the content in your Markdown files. 
 # social links
 # twitter_username: your-twitter-handle # DO NOT include the @ character, or else the build will fail!
 github_username:  ZJYgrp # DO NOT include the @ character, or else the build will fail!
-github: https://github.com/ZJYgrp/database_construction
+# github: https://github.com/ZJYgrp/database_construction
 show_excerpts: true # set to false to remove excerpts on the homepage
 # Whether or not to show an excerpt for every blog post in the feed page
 feed_show_excerpt: true

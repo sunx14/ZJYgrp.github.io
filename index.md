@@ -9,7 +9,7 @@ author:
 - Xinchun
 ---
 
-#### The PDB Database link: ![https://zjygrp.github.io/main.html](https://zjygrp.github.io/main.html)
+#### The PDB Database link: [https://zjygrp.github.io/main.html](https://zjygrp.github.io/main.html)
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 

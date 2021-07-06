@@ -4,4 +4,4 @@ title: "PDB Database"
 permalink: https://zjygrp.github.io/main.html
 ---
 
-This is separate page. Then
+## [Link to open database](https://zjygrp.github.io/main.html)

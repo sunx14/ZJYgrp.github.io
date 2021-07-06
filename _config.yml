@@ -1,11 +1,32 @@
-title: PDB database demo
+title: PDB
 author: John, Li, Xi, Lucy, Xinchun
-email: zhongyueyang20@gmail.com
+email: zhongyue.yang@vanderbilt.edu
 theme: minima
 description: > # this means to ignore newlines until "baseurl:"
-  Demo for the construction of IntEnzyDB, a database for storing enzyme kinetics-structure data. 
+  Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files. 
 # social links
-twitter_username: your-twitter-handle # DO NOT include the @ character, or else the build will fail!
-github_username:  your-github-handle # DO NOT include the @ character, or else the build will fail!
-
+# twitter_username: your-twitter-handle # DO NOT include the @ character, or else the build will fail!
+github_username:  ZJYgrp # DO NOT include the @ character, or else the build will fail!
+github: https://github.com/ZJYgrp/database_construction
 show_excerpts: true # set to false to remove excerpts on the homepage
+# Whether or not to show an excerpt for every blog post in the feed page
+feed_show_excerpt: true
+
+# Whether or not to show a list of tags below each post preview in the feed page
+feed_show_tags: true
+
+# Add a search button to the navbar
+post_search: true
+
+# Personalize the colours in your website. Colour values can be any valid CSS colour
+
+navbar-col: "#EAEAEA"
+navbar-text-col: "#404040"
+navbar-border-col: "#DDDDDD"
+page-col: "#FFFFFF"
+text-col: "#404040"
+link-col: "#008AFF"
+hover-col: "#0085A1"
+footer-col: "#EAEAEA"
+footer-text-col: "#777777"
+footer-link-col: "#404040"

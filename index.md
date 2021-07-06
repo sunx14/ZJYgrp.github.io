@@ -13,7 +13,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### The PDB Database link 
 
-[links for database](https://zjygrp.github.io/main.html)
+[link for database](https://zjygrp.github.io/main.html)
 
 ### Jekyll Themes
 

@@ -1,7 +1,12 @@
 ---
 title: "PDB demo database"
 date: 2021-07-06
-author: John, Li, Xi, Lucy, Xinchun
+author: 
+- John
+- Li
+- Xi
+- Lucy
+- Xinchun
 ---
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.

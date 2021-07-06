@@ -1,7 +1,7 @@
 title: IntEnzyDB
 author: John, Li, Xi, Lucy, Xinchun
 email: zhongyue.yang@vanderbilt.edu
-theme: jekyll-theme-chirpy
+theme: minima
 description: > # this means to ignore newlines until "baseurl:"
   Whenever you commit to this repository, GitHub Pages will run Jekyll to rebuild the pages in your site, from the content in your Markdown files. 
 # social links

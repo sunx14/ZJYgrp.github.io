@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "About Team"
+title: "Research"
 ---
 
 # Research Interest:

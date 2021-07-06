@@ -9,15 +9,15 @@ author:
 - Xinchun
 ---
 
-### Brief Introduction 
+# Brief Introduction 
 
 Demo for the construction of IntEnzyDB, a database for storing enzyme kinetics-structure data.
 
-#### The reason why we build this database
+## The reason why we build this database
 
 ...
 
-#### The special architecture of thid database
+## The special architecture of thid database
 
 ...
 

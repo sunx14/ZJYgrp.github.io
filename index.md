@@ -1,5 +1,5 @@
 ---
-title: "PDB demo database"
+title: "PDB database"
 date: 2021-07-06
 author: 
 - John
@@ -9,11 +9,7 @@ author:
 - Xinchun
 ---
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### The PDB Database link 
-
-[link for database](https://zjygrp.github.io/main.html)
+Demo for the construction of IntEnzyDB, a database for storing enzyme kinetics-structure data.
 
 ### Jekyll Themes
 

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "PDB Database"
+title: "Database of IntEnzy"
 permalink: https://zjygrp.github.io/main.html
 ---
 

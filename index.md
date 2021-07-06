@@ -17,7 +17,7 @@ Demo for the construction of IntEnzyDB, a database for storing enzyme kinetics-s
 
 ...
 
-## The special architecture of thid database
+## The special architecture of this database
 
 ...
 

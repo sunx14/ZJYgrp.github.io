@@ -3,6 +3,7 @@ layout: post
 title: "Extract PDB data from website by API"
 date: 2020-12-25
 categories: CATEGORY-1 CATEGORY-2
+comments: true
 ---
 
 ### database_construction

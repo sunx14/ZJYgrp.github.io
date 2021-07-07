@@ -12,3 +12,6 @@ show_excerpts: true # set to false to remove excerpts on the homepage
 # Whether or not to show an excerpt for every blog post in the feed page
 feed_show_excerpt: true
 avatar: "./pics/logo.png"
+# If you want to have an image logo in the top-left corner instead of having the title of the website,
+# then specify the following parameter
+title-img: ./pics/protein.jpeg

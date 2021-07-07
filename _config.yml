@@ -1,7 +1,8 @@
 title: IntEnzyDB
 author: John, Li, Xi, Lucy, Xinchun
 email: zhongyue.yang@vanderbilt.edu
-theme: minima
+theme: minima:
+         skin: dark
 disqus:
   shortname: intenzydb
 

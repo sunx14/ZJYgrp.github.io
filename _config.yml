@@ -2,9 +2,8 @@ title: IntEnzyDB
 author: John, Li, Xi, Lucy, Xinchun
 email: zhongyue.yang@vanderbilt.edu
 theme: minima
-skin: dark
 disqus:
-  shortname: IntEnzyDB
+  shortname: intenzydb
 
 #theme: jekyll-theme-architect
 description: > # this means to ignore newlines until "baseurl:"

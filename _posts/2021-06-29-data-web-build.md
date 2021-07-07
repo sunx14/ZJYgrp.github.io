@@ -3,6 +3,7 @@ layout: post
 title: "Import csv to web"
 date: 2021-06-29
 categories: CATEGORY-1 CATEGORY-2
+comments: true
 ---
 
 ### Build a basic static web table showing PDB csv

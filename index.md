@@ -1,6 +1,7 @@
 ---
 title: "Home Page"
 date: 2021-07-06
+comments: true
 author: 
 - John
 - Li

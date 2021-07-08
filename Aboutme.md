@@ -22,7 +22,7 @@ For more info, please visit my personal web: [Personal Website](https://lab.vand
 
 **Master Student, Data Science Institute**
 
-<i class="fas fa-envelope-square"></i> [sarah.k.torrence@Vanderbilt.Edu](sarah.k.torrence@Vanderbilt.Edu)
+[sarah.k.torrence@Vanderbilt.Edu](sarah.k.torrence@Vanderbilt.Edu)
 
 I am a current graduate student at Vanderbilt pursuing an MS in Data Science. I graduated from Denison University in 2016 with a degree in Mathematics and minor in Economics. Over the last five years, I’ve had the opportunity to grow as a data science professional in various fields and industries including education, criminology, financial services, and digital advertising. I am inspired by the way we can apply analytics and creativity to the data of our past to gain insights and create a better future.
 

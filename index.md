@@ -17,7 +17,7 @@ Demo for the construction of IntEnzyDB, a database for storing enzyme kinetics-s
 ## The reason why we build this database
 
 ...
-$$\int^0_1$$
+
 
 ## The special architecture of this database
 

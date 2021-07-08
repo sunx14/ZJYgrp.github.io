@@ -11,7 +11,10 @@
       <div class="wrapper">
         {{ content }}
       </div>
-      <div style="background-image: url('../pics/protein.jpeg');"></div>
+      var html = katex.renderToString("c = \\pm\\sqrt{a^2 + b^2}", {
+    throwOnError: false
+});
+   <span class="katex">html</span>
     </main>
     
     {%- include footer.html -%}

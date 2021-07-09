@@ -16,11 +16,12 @@ Demo for the construction of IntEnzyDB, a database for storing enzyme kinetics-s
 
 
 The **rate** of the reaction catalyzed by enzyme E
-$$\mathrm{A}+\mathrm{B} \Longleftrightarrow \mathrm{P}$$
- is defined as $$\frac{-\Delta[\mathrm{A}]}{\Delta \mathrm{t}} \; or \; \frac{-\Delta[\mathrm{B}]}{\Delta \mathrm{t}} \; or \; \frac{-\Delta[\mathrm{P}]}{\Delta \mathrm{t}}$$
 
-- $\mathrm{A}$ and $\mathrm{B}$ changes are negative because the substrates are disappearing
-- $\mathrm{P}$ change is positive because product is being formed.
+$$A+B \Longleftrightarrow P$$
+ is defined as $$\frac{-\Delta[A]}{\Delta t} \; or \; \frac{-\Delta[B]}{\Delta t} \; or \; \frac{\Delta[P]}{\Delta t}$$
+
+- $A$ and $B$ changes are negative because the substrates are disappearing
+- $P$ change is positive because product is being formed.
 
 ## The reason why we build this database
 

@@ -20,8 +20,8 @@ The **rate** of the reaction catalyzed by enzyme E
 $$A+B \Longleftrightarrow P$$
  is defined as $$\frac{-\Delta[A]}{\Delta t} \; or \; \frac{-\Delta[B]}{\Delta t} \; or \; \frac{\Delta[P]}{\Delta t}$$
 
-- $A$ and $B$ changes are negative because the substrates are disappearing
-- $P$ change is positive because product is being formed.
+- A and B changes are negative because the substrates are disappearing
+- P change is positive because product is being formed.
 
 ## The reason why we build this database
 

@@ -28,7 +28,7 @@ I am a current graduate student at Vanderbilt pursuing an MS in Data Science. I 
 
 ## Bailu (Lucy) Yan
 
-![](./pics/Lucy.svg){: width="250" }
+![](./pics/Lucy.svg){: width="180" }
 
 **Research Assistant, Department of Chemistry, Vanderbilt University**
 

@@ -26,3 +26,11 @@ For more info, please visit my personal web: [Personal Website](https://lab.vand
 
 I am a current graduate student at Vanderbilt pursuing an MS in Data Science. I graduated from Denison University in 2016 with a degree in Mathematics and minor in Economics. Over the last five years, I’ve had the opportunity to grow as a data science professional in various fields and industries including education, criminology, financial services, and digital advertising. I am inspired by the way we can apply analytics and creativity to the data of our past to gain insights and create a better future.
 
+## Bailu (Lucy) Yan
+
+![](./pics/Lucy.svg)
+
+**Research Assistant, Department of Chemistry, Vanderbilt University**
+**Ph.D. Student, School of Medicine, Vanderbilt University**
+
+As the data science lead in the team, I’m responsible for database construction and statistical modeling and providing data-driven guidance to our researches. Graduated from Southern Methodist University with a Master’s degree in Applied Statistics and Data Analytics, I worked as a data analyst in industry for 2 years, focusing on data science and data engineering. After working with Prof. Yang, I’m amazed by how data-driven methods can contribute to biomolecular scientific research. We are excited to see the bright future of incorporating statistical and data-driven methods to enzyme study, which will open doors for enzyme designing with interdisciplinary research advancement.
